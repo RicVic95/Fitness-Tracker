@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "data-science-template-main"
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	}
+}
